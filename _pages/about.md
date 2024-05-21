@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an applied mathematician working at Istanbul Aydin University. 
+I am an applied mathematician working at [Istanbul Aydin University](https://www.aydin.edu.tr/). 
 
 As a researcher, my primary interest is broadly in mathematical biology. Specifically, I work on modelling stochastic dynamics of intracellular events, such as gene expression. 
 
