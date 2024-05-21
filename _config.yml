@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Candan Celik, Ph.D.
+title: Candan Celik
 first_name: Candan
 middle_name: 
 last_name: Celik
@@ -11,9 +11,9 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by X.
-keywords: candan, celik, mathematics, applied, PhD, aydin # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: candan, celik, Istanbul, aydin, university, applied, mathematics, PhD 
+lang: en 
+icon: 🧬 
 
 url: https://candancelik.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
