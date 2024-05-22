@@ -25,12 +25,12 @@
   "work": [
     {
       "name": "Istanbul Aydin University, Turkey",
-      "position": "Assitant Professor",
+      "position": "Assistant Professor",
       "url": "https://candancelik.github.io",
       "startDate": "2024",
       "endDate": "-",
       "summary": "",
-      "highlights": ["Applied Mathematics"]
+      "highlights": ["Faculty of Engineering"]
     },
     {
       "name": "Institute for Basic Science, South Korea",
@@ -77,13 +77,13 @@
      {
       "institution": "Ege University",
       "location": "Turkey",
-      "url": "https://fenbilimleri.ege.edu.tr/",
-      "area": "Applied Mathematics",
+      "url": "https://fen.ege.edu.tr/",
+      "area": "Mathematics",
       "studyType": "BSc",
       "startDate": "2013",
       "endDate": "2009",
       "score": "",
-      "courses": [""]
+      "courses": ["Majored in Applied Mathematics"]
     }
   ],
   "languages": [
