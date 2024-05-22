@@ -10,17 +10,17 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Comenius University, Slovakia
-      year: 2018 - 2022
-      description:
-        - Thesis Multivariate Markovian models of biological processes
-        - Advisor Pavol Bokes
+       institution: Comenius University, Slovakia
+       year: 2018 - 2022
+       description:
+         - Thesis Multivariate Markovian models of biological processes
+         - Advisor Pavol Bokes
     - title: MSc
       institution: Ege University, Turkey
       year: 2014 - 2017
       description:
         - Thesis Multidimensional population balance modelling
-     - title: BSc
+    - title: BSc
       institution: Ege University, Turkey
       year: 2009 - 2013
       description:
@@ -42,11 +42,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Mathematical biology.
+    - title: Mathematical biology
       items:
         - Stochastic processes
         - Markov chains
-    - title: Differential Equations.
+    - title: Differential Equations
       items:
         - ODEs and PDEs
 
