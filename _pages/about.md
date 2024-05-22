@@ -6,7 +6,7 @@ subtitle: PhD in Applied Mathematics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_dark.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Faculty of Engineering</p>
