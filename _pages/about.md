@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I am an applied mathematician working at Istanbul Aydin University. 
 
-As a researcher, my primary interest is broadly in mathematical biology. More specifically, I work on modelling stochastic dynamics of intracellular events, such as gene expression. For further info, please check out my [publications page](/candancelik.github.io/publications/).
+As a researcher, my primary interest is broadly in mathematical biology. More specifically, I work on modelling stochastic dynamics of intracellular events, such as gene expression. For further info, please check out my [publications page](/publications/).
 
 Please feel free to reach out to me through the email below. 
