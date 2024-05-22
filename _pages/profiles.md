@@ -12,19 +12,19 @@ profiles:
   - align: left
     image: singh.jpg
     content: about_singh.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Abhyudai Singh</p>
-      <p>Professor</p>
-      <p> University of Delaware, USA</p>
+    #  <p>Abhyudai Singh</p>
+    #  <p>Professor</p>
+    #  <p> University of Delaware, USA</p>
   
   - align: right
     image: bokes.jpeg
     content: about_bokes.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Pavol Bokes</p>
-      <p>Associate Professor</p>
-      <p>Comenius University, Slovakia</p>
+    #  <p>Pavol Bokes</p>
+    #  <p>Associate Professor</p>
+    #  <p>Comenius University, Slovakia</p>
   
 ---
