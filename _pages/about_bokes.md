@@ -1,4 +1,4 @@
-[Pavol Bokes](https://pavol.bokes.org/) is an Associate Professor of Mathematics at [Comenius University](https://uniba.sk/en/) in Bratislava, Slovakia. 
+[Pavol Bokes](https://sluzby.fmph.uniba.sk/ludia/bokes3) is an Associate Professor of Mathematics at [Comenius University](https://uniba.sk/en/) in Bratislava, Slovakia. 
 
 Dr Pavol Bokes received a master’s in mathematics from Comenius University, Bratislava, Slovakia, and a doctoral degree in mathematical biology from the University of Nottingham, Nottingham, United Kingdom.
 
