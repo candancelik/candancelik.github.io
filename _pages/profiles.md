@@ -14,7 +14,7 @@ profiles:
     content: about_singh.md
     image_circular: true # crops the image to make it circular
     more_info: >
-    #  <p>Abhyudai Singh</p>
+       <p>Abhyudai Singh</p>
     #  <p>Professor</p>
     #  <p> University of Delaware, USA</p>
   
@@ -23,7 +23,7 @@ profiles:
     content: about_bokes.md
     image_circular: true # crops the image to make it circular
     more_info: >
-    #  <p>Pavol Bokes</p>
+       <p>Pavol Bokes</p>
     #  <p>Associate Professor</p>
     #  <p>Comenius University, Slovakia</p>
   
