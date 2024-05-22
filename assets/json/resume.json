@@ -24,41 +24,66 @@
   },
   "work": [
     {
-      "name": "Istanbul Aydin University, Istanbul,Turkey",
+      "name": "Istanbul Aydin University, Turkey",
       "position": "Assitant Professor",
       "url": "https://candancelik.github.io",
       "startDate": "2024",
       "endDate": "-",
       "summary": "",
       "highlights": ["Applied Mathematics"]
+    },
+    {
+      "name": "Institute for Basic Science, South Korea",
+      "position": "Postdoctoral Research Associate",
+      "url": "https://candancelik.github.io",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "",
+      "highlights": ["Biomedical Mathematics Group"]
+    },
+    {
+      "name": "Comenius University, Slovakia",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://candancelik.github.io",
+      "startDate": "2019",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": ["Applied Mathematics"]
     }
   ],
   "education": [
     {
-      "institution": "Comenius University, Slovakia",
-      "location": "Bratislava, Slovakia",
+      "institution": "Comenius University",
+      "location": "Slovakia",
       "url": "https://uniba.sk/en/",
       "area": "Applied Mathematics",
       "studyType": "PhD",
-      "startDate": "2018-09-04",
-      "endDate": "2022-06-13",
+      "startDate": "2018",
+      "endDate": "2022",
       "score": "",
-      "courses": ["Mathematical Biology"]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "courses": ["Thesis: Multivariate Markovian models of biological processes"]
+    },
+     {
+      "institution": "Ege University",
+      "location": "Turkey",
+      "url": "https://fenbilimleri.ege.edu.tr/",
+      "area": "Applied Mathematics",
+      "studyType": "MSc",
+      "startDate": "2014",
+      "endDate": "2017",
+      "score": "",
+      "courses": ["Thesis: Multidimensional population balance modelling"]
+    },
+     {
+      "institution": "Ege University",
+      "location": "Turkey",
+      "url": "https://fenbilimleri.ege.edu.tr/",
+      "area": "Applied Mathematics",
+      "studyType": "BSc",
+      "startDate": "2013",
+      "endDate": "2009",
+      "score": "",
+      "courses": [""]
     }
   ],
   "languages": [
@@ -91,8 +116,8 @@
       "reference": "University of Delaware, US"
     },
     {
-      "name": "Associate Professor Pavol Bokes",
-      "icon": "fa-solid fa-thumbtack",
+      "name": "Professor Pavol Bokes",
+      "icon": "fa-solid fa-laptop",
       "reference": "Comenius University, Slovakia"
     }
   ]
