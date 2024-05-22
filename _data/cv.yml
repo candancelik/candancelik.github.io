@@ -13,20 +13,20 @@
   contents:
     - title: PhD
       institution: Comenius University, Slovakia
-      year: 2018--2022
+      year: 2022
       description:
         - Thesis Multivariate Markovian models of biological processes
         - Advisor Pavol Bokes
        
     - title: MSc
       institution: Ege University, Turkey
-      year: 2014--2017
+      year: 2017
       description:
         - Thesis Multidimensional population balance modelling
 
      - title: BSc
       institution: Ege University, Turkey
-      year: 2009--2013
+      year: 2013
       description:
         - Thesis Multidimensional population balance modelling
 
@@ -34,13 +34,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Istanbul Aydin University, Turkey
+      year: 2024
+  
     - title: Postdoctoral Research Associate
       institution: Institute for Basic Science, South Korea
-      year: 2023--2024
+      year: 2023
   
     - title: Graduate Teaching Assistant
       institution: Comenius University, Slovakia
-      year: 2019--2022
+      year: 2022
   
 
 - title: Academic Interests
