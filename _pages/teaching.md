@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: materials for courses I teach
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-This page will be updated later.
+this page will be updated later. check back soon...
