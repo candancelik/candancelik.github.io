@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: collaborators
+description: collaborators (in alphabetical order)
 nav: true
 nav_order: 4
 
