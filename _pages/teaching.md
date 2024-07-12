@@ -7,4 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-this page will be updated later. check back soon...
+2023 - 2024 Summer 
+
+MAT249  Differential Equations
+
+MAT163 Linear Algebra
+
+MAT209 Linear Algebra
