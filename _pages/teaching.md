@@ -11,8 +11,6 @@ nav_order: 3
 
 MAT249 Differential Equations
 
-_/assets/pdf/example_pdf.pdf
-
 MAT163 Linear Algebra
 
 MAT209 Linear Algebra
