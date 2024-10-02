@@ -9,7 +9,7 @@ nav_order: 3
 
 2024 - 2025 / Autumn
 
-[Download as PDF](https://candancelik.github.io/assets/schedule.pdf)
+[Download as PDF](https://candancelik.github.io/assets/pdf/schedule.pdf)
 
 
 2023 - 2024 / Summer 
