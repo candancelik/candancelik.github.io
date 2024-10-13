@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Faculty of Engineering</p>
-    <p>Building K, Office 7402 </p>
+    <p>Building K, Office 7503 </p>
     <p>Florya Campus, Istanbul</p>
 
 news: true # includes a list of news items
@@ -22,4 +22,4 @@ I am a mathematician working at [Istanbul Aydin University](https://www.aydin.ed
 
 As a researcher, my primary interest is broadly in mathematical biology. More specifically, I work on modelling stochastic dynamics of intracellular events, such as gene expression. For further info, please check out [publications page](/publications/).
 
-Please feel free to reach out to me through the email below. 
+Please don't hesitate to contact me through the email at the bottom of this page. 
