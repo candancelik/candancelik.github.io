@@ -22,4 +22,4 @@ I am a mathematician working at [Istanbul Aydin University](https://www.aydin.ed
 
 As a researcher, my primary interest is broadly in mathematical biology. More specifically, I work on modelling stochastic dynamics of intracellular events, such as gene expression. For further info, please check out [publications page](/publications/).
 
-Please contact me via the email at the bottom of this page. 
+Don't hesitate to contact me via the email at the bottom of this page. 
