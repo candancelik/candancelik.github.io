@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Candan Celik
+title: Candan Çelik
 first_name: Candan
 middle_name: 
-last_name: Celik
+last_name: Çelik
 email: candanc@aydin.edu.tr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
 
-keywords: candan, celik, Istanbul, aydin, university, applied, mathematics, PhD 
+keywords: candan, çelik, iaü, Istanbul, aydin, university, applied, mathematics, PhD 
 lang: en 
 icon: 🧬 
 
