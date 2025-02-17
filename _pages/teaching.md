@@ -7,17 +7,17 @@ nav: true
 nav_order: 3
 ---
 
-
-
-[INE213 Final Exam (+ Quiz) Results (pdf)](https://candancelik.github.io/assets/pdf/INE213-final-v2.pdf)
-
-
-2024 - 2025 / Autumn
+2024 - 2025 / Spring
 
 [Schedule (pdf)](https://candancelik.github.io/assets/pdf/schedule.pdf)
 
 -----------------------------
 
+2024 - 2025 / Spring
+
+MAT163 Linear Algebra
+
+INE213 Introduction to Mathematical Optimization
 
 2023 - 2024 / Summer 
 
