@@ -1,24 +1,24 @@
 {
   "basics": {
     "name": "Candan Celik",
-    "label": "Applied Mathematician",
+    "label": "Mathematician",
     "image": "",
-    "email": "candanc@aydin.edu.tr",
+    "email": "candan.celik@atlas.edu.tr",
     "phone": "",
     "url": "https://candancelik.github.io",
     "summary": "",
     "location": {
-      "address": "Building K, Office 7402",
-      "postalCode": "Florya Campus",
+      "address": "Faculty of Engineering",
+      "postalCode": "Atlas Valley Campus",
       "city": "Istanbul",
       "countryCode": "TR",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "X",
         "username": "candancelik_",
-        "url": "https://twitter.com/candancelik_"
+        "url": "https://x.com/candancelik_"
       }
     ]
   },
@@ -28,7 +28,7 @@
       "position": "Assistant Professor",
       "url": "https://candancelik.github.io",
       "startDate": "2024",
-      "endDate": "-",
+      "endDate": "2025",
       "summary": "",
       "highlights": ["Faculty of Engineering"]
     },
