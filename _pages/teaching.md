@@ -6,10 +6,13 @@ description: materials for courses I teach
 nav: true
 nav_order: 3
 ---
+2025 - 2026 / Fall
+
+[Schedule (pdf)](TBA)
+
+-----------------------------
 
 2024 - 2025 / Spring
-
-[Schedule (pdf)](https://candancelik.github.io/assets/pdf/schedule.pdf)
 
 -----------------------------
 
