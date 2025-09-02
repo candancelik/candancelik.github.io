@@ -5,4 +5,3 @@ inline: true
 related_posts: false
 ---
 
-I started working at Istanbul Aydin University.
